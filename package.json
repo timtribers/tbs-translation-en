@@ -1,5 +1,5 @@
 {
-  "name": "tbs-translation-master",
+  "name": "tbs-translation-en",
   "version": "0.0.1",
   "description": "An enrichment framework for preparing Bible files for publication",
   "main": "index.js",
